@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f2193579cc8dd816","type":"text","text":"Deep Learning 4803, 7643 Content ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b27d4afb97f58756","type":"text","text":"Introduction to Deep Learning","x":325,"y":-310,"width":200,"height":100},
+		{"id":"86946631569ebf4c","type":"text","text":"RNN: Recurrent Neural Network","x":325,"y":-30,"width":200,"height":100},
+		{"id":"02f4de59748b710a","type":"text","text":"CNN: Convolution Neural Network","x":325,"y":-170,"width":200,"height":100},
+		{"id":"0444a75bdae5236b","type":"text","text":"Reinforcement Deep Learning","x":325,"y":110,"width":200,"height":100},
+		{"id":"83db939a1983a7f8","type":"text","text":"Unsupervised deep learning","x":325,"y":250,"width":200,"height":100},
+		{"id":"0da108466a97ca27","x":-200,"y":-295,"width":400,"height":225,"type":"file","file":"Attachments/Pasted image 20240921182103.png"}
+	],
+	"edges":[
+		{"id":"bba2d768ae24c823","fromNode":"f2193579cc8dd816","fromSide":"right","toNode":"b27d4afb97f58756","toSide":"left"},
+		{"id":"b1de96f651ee69a0","fromNode":"f2193579cc8dd816","fromSide":"right","toNode":"86946631569ebf4c","toSide":"left"},
+		{"id":"79a99618c174072d","fromNode":"f2193579cc8dd816","fromSide":"right","toNode":"02f4de59748b710a","toSide":"left"},
+		{"id":"5e5f0ffbcd99b268","fromNode":"f2193579cc8dd816","fromSide":"right","toNode":"0444a75bdae5236b","toSide":"left"},
+		{"id":"3666c02df206f754","fromNode":"f2193579cc8dd816","fromSide":"right","toNode":"83db939a1983a7f8","toSide":"left"}
+	]
+}
